@@ -85,10 +85,6 @@ jupyter notebook
 
 This repository is continuously updated with new methodologies, advanced architectures, and emerging applications in the computer vision space.
 
-## License
-
-[Add your chosen license here]
-
 ## Contact & Collaboration
 
 For inquiries regarding specific projects or collaboration opportunities, please refer to the project documentation within each implementation.
